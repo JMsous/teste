@@ -1,0 +1,28 @@
+pergunta;resposta
+O que são direitos e garantias fundamentais?;Proteções concedidas aos indivíduos para garantir dignidade, liberdade e igualdade perante o Estado e a sociedade. Características: irrenunciáveis, imprescritíveis, relativos, universais, inalienáveis e históricos.
+Quais são as gerações de direitos fundamentais?;1ª Geração: direitos civis e políticos (liberdade). 2ª Geração: direitos sociais, econômicos e culturais (igualdade). 3ª Geração: direitos coletivos/difusos (fraternidade). Há também 4ª (globalização) e 5ª (paz mundial).
+Onde estão previstos os direitos fundamentais na CF/88?;No Título II da Constituição, organizados em: direitos individuais/coletivos, sociais, de nacionalidade e políticos.
+Cite exemplos de direitos individuais na CF/88.;Direito à vida, liberdade, igualdade, propriedade e princípio da legalidade ("ninguém será obrigado a fazer ou deixar de fazer algo senão em virtude de lei").
+Quais são os principais direitos sociais?;Previdência Social, segurança pública, trabalho digno, saúde (SUS), educação e moradia.
+Como se classificam os tipos de nacionalidade?;Primária (originária): obtida pelo nascimento no Brasil ou por filiação. Secundária (derivada): obtida por naturalização. Naturalizados têm restrições (ex.: não podem ser Presidentes).
+O que são direitos políticos?;Garantias de participação na administração do Estado: voto (obrigatório para +18), elegibilidade, filiação partidária e inelegibilidades (ex.: condenação criminal transitada em julgado).
+Quais as características dos partidos políticos na CF/88?;Autonomia organizacional, filiação facultativa, fidelidade partidária e proibição de receber recursos estrangeiros ou defender ideias contrárias ao Estado Democrático.
+Quais são os principais remédios constitucionais?;Habeas corpus (prisão ilegal), mandado de segurança (direito líquido e certo), habeas data (acesso a informações), ação popular (controle de atos lesivos) e mandado de injunção (omissão legislativa).
+Qual a função do habeas data?;Garantir acesso ou retificação de informações pessoais em bancos de dados públicos ou particulares de caráter público. Regulado pela Lei 9.507/1997.
+Quem pode impetrar mandado de segurança?;Qualquer pessoa (física ou jurídica) com direito líquido e certo não amparado por HC ou HD, contra ilegalidade ou abuso de poder de autoridade.
+O que é mandado de injunção?;Ação para garantir direito constitucional não regulamentado. Objetiva suprir omissão legislativa (ex.: direito de greve de servidores sem lei específica).
+Quando cabe habeas corpus?;Sempre que houver ameaça ou violação à liberdade de locomoção por ato ilegal. Pode ser impetrado a qualquer momento, inclusive em plantões judiciários.
+Quais são as competências exclusivas da União?;Emitir moeda, política externa, defesa nacional, legislação penal/civil/processual, e sistema tributário nacional.
+O que são competências concorrentes da União?;Matérias onde a União estabelece normas gerais e estados/DF complementam (ex.: direito tributário, orçamento, juntas comerciais).
+Como são administrados os Territórios Federais?;Pela União (sem autonomia), com representação no Congresso. Podem ser divididos em municípios e servem para políticas públicas inovadoras.
+Qual a estrutura do Poder Legislativo brasileiro?;Congresso Nacional bicameral: Câmara dos Deputados (representação proporcional) e Senado Federal (representação igualitária dos estados).
+Quais as funções principais do Poder Legislativo?;Legislar, fiscalizar o Executivo, julgar contas do governo, autorizar empréstimos e processar Presidentes por crimes de responsabilidade.
+Quem exerce o Poder Executivo no presidencialismo?;Presidente da República (União), Governadores (estados) e Prefeitos (municípios), auxiliados por ministros/secretários. Mandato de 4 anos com possibilidade de reeleição.
+Quais as funções do Poder Judiciário?;Guardar a Constituição, julgar conflitos, controlar atos administrativos e garantir direitos fundamentais. Órgãos: STF, STJ, TRFs e juízes federais.
+Quais as garantias da magistratura?;Vitaliciedade, inamovibilidade, irredutibilidade de subsídios e autonomia administrativa/financeira (art. 99 da CF/88).
+Como a CF/88 protege o meio ambiente?;Art. 225: direito ao meio ambiente equilibrado, responsabilidade por danos ambientais (civil, penal e administrativa) e dever compartilhado Estado/coletividade.
+Quais entes formam a Federação brasileira?;União, Estados, Municípios e Distrito Federal. Territórios não são entes federativos (são administrados pela União).
+O que é mandado de segurança coletivo?;Ação para proteger direitos coletivos/difusos ou individuais homogêneos. Podem impetrar: partidos, sindicatos ou associações em funcionamento há pelo menos 1 ano.
+Quais são as competências municipais?;Legislar sobre interesse local, criar/distritar, organizar serviços públicos e arrecadar tributos próprios (autonomia pela Lei Orgânica).
+Quais os princípios dos partidos políticos?;Autonomia estatutária, liberdade de criação/fusão, acesso a fundo partidário e tempo de mídia, e proibição de recebimento de recursos estrangeiros.
+O que são súmulas vinculantes?;Decisões do STF que obrigam todos os órgãos judiciais e administrativos. Ex.: Súmula 13 (vedação ao nepotismo) e Súmula 46 (crimes de responsabilidade).
